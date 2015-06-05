@@ -102,4 +102,4 @@ Ship_09: RF-31 Superiordinator
 -360 degree point defense turret coverage
 -360 degree offensive turret coverage
 -Power stable with single exception (ship-cleaving cannon)
-
+-Designed and built in collaboration with one other starmade designer (Azereiah)
